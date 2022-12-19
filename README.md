@@ -1,4 +1,4 @@
-<div aling="center">
+<div align="center">
   <img src ='https://i.postimg.cc/NFG6NJxh/Logo-Inv-alt.png'/>
 </div>
 <p>Hi 👋, mi name is jorge and im a junior programer of c#, this little proyecto is a view of my abilities in this programing lenguaje y hope they will like this proyect of the inventory gestor</p> 
@@ -44,7 +44,7 @@
     <h5>bill and total</h5>
     <p>This section consist of two parts, the bill, where you are see values of the last product entry,  and the total, where you are see the total value of the all product      entry in the bill.</p>
     <div align="center">
-       <img src='https://i.postimg.cc/pXjVwS8t/Logo-Inv-alt.png' at='bill reg section'/>
+       <img src='https://i.postimg.cc/J73zr75z/Screenshot-2022-12-19-093651.png' at='bill reg section'/>
     </div>
   </li>
 </ul>
