@@ -21,6 +21,10 @@
 <ul>
   <li>
     <h5>Inventory reg section</h5>
-    <p>In this section you can see the register of the inventory</p>
+    <p>In this section you can see the Name, Varcode and the price of any product added in the inventory data base</p>
+    <img alt="reg section" src=""/>
+  </li>
+  <li>
+    
   </li>
 </ul>
