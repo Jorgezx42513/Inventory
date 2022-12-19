@@ -40,4 +40,11 @@
        <img src='https://i.postimg.cc/g0pzhfDK/Screenshot-2022-12-19-091240.png' at='bill reg section'/>
     </div>
   </li>
+   <li>
+    <h5>bill and total</h5>
+    <p></p>
+    <div align="center">
+       <img src='https://i.postimg.cc/J73zr75z/Screenshot-2022-12-19-093651.png' at='bill reg section'/>
+    </div>
+  </li>
 </ul>
