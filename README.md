@@ -13,5 +13,6 @@
     <p>Go to the direction where you download the .zip file and press right click and extrait de file.</p>
   </li>
   <li>
+    <p>muy bien, esto es todo abre la carpeta y ejecuta el archivo Inventory.exe para iniciar la app. 😀 </p>
   </li>
 </ol>
