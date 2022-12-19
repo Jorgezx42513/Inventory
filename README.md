@@ -27,6 +27,10 @@
     </div>
   </li>
   <li>
-    
+    <h5>Bill red section</h5>
+    <p>In this section you can see the products admitted in the entry, and see the id, name,barcode,amount the same product entry and value is this products.</p>
+    <div align="center">
+       <img src='https://i.postimg.cc/0NVTN3Hj/Screenshot-2022-12-19-092040.png' at='bill reg section'/>
+    </div>
   </li>
 </ul>
