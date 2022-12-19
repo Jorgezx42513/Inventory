@@ -6,7 +6,12 @@
 <p>Inventory is a productivity software focused on small businesses of any kind, with this application the finances of your business will be digitized in a safe and simple way. The program uses MySql architecture where all the records entered can be verified in a simple way, giving users better data management and inventory of their business.</p>
 <h3>Download proces 📎</h3>
 <ol>
-  <li>uno</li>
-  <li>dos</li>
-  <li>tres</li>
+  <li>
+    <p>Go to the section of CODE in the Github repository and select the option download zip to star de dounload.</p>
+  </li>
+  <li>
+    <p>Go to the direction where you download the .zip file and press right click and extrait de file.</p>
+  </li>
+  <li>
+  </li>
 </ol>
