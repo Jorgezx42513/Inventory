@@ -34,8 +34,8 @@
     </div>
   </li>
   <li>
-    <h5>Entry point/h5>
-    <p></p>
+    <h5>Entry point</h5>
+    <p>This is the most easy section to use, only you are enter the barcode in the search bar to entry a production in the bill daba base, this will be reflected in                bill.</p>
     <div align="center">
        <img src='https://i.postimg.cc/g0pzhfDK/Screenshot-2022-12-19-091240.png' at='bill reg section'/>
     </div>
