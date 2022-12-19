@@ -16,3 +16,4 @@
     <p>muy bien, esto es todo abre la carpeta y ejecuta el archivo Inventory.exe para iniciar la app. 😀 </p>
   </li>
 </ol>
+<h3>how are  use this app?</h3>
