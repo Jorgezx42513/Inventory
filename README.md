@@ -22,7 +22,7 @@
   <li>
     <h5>Inventory reg section</h5>
     <p>In this section you can see the Name, Varcode and the price of any product added in the inventory data base</p>
-    <img alt="reg section" src=""/>
+    <img src='https://i.postimg.cc/rd1H8ZHG/Screenshot-2022-12-18-234708.png' border='0' alt='Screenshot-2022-12-18-234708'/>
   </li>
   <li>
     
