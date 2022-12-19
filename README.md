@@ -28,7 +28,7 @@
   </li>
   <li>
     <h5>Bill red section</h5>
-    <p>In this section you can see the products admitted in the entry, and see the id, name,barcode,amount the same product entry and value is this products.adicionaly in           the top part have de button to generate de day reg of one bill and the scroolvar,where you can select the database (day_reg to the all day bills added and gen_reg           to the register of general days in one )</p>
+    <p>In this section you can see the products admitted in the entry, and see the id, name,barcode,amount the same product entry and value of this product.adicionaly in           the top part have de button to generate de day reg of one bill and the scroolvar,where you can select the database (day_reg to the all day bills added and gen_reg           to the register of general days in one )</p>
     <div align="center">
        <img src='https://i.postimg.cc/0NVTN3Hj/Screenshot-2022-12-19-092040.png' at='bill reg section'/>
     </div>
@@ -42,7 +42,7 @@
   </li>
    <li>
     <h5>bill and total</h5>
-    <p></p>
+    <p>This section consist of two parts, the bill, where you are see values of the last product entry,  and the total, where you are see the total value of the all product      entry in the bill.</p>
     <div align="center">
        <img src='https://i.postimg.cc/J73zr75z/Screenshot-2022-12-19-093651.png' at='bill reg section'/>
     </div>
