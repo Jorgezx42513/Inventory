@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src ="Logo_Inv_alt.png " weight=30 height=30/>
+  <img src ="Logo_Inv_alt.png " weight=100 height=100/>
 </div>
 Hi 👋, mi name is jorge and im a junior programer of c#, this little proyecto is a view of my abilities in this programing lenguaje y hope they will like this proyect of the inventory gestor 
 <h3>What is Inventory?</h3>
