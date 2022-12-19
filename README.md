@@ -21,7 +21,7 @@
 <ul>
   <li>
     <h5>Inventory reg section</h5>
-    <p>In this section you can see the Name, Varcode and the price of any product added in the inventory data base</p>
+    <p>In this section you can see the Name, Varcode and the price of any product added in the inventory data base, also in the top part you can use the search bar to find         any registered writing the name in it, and use the button green to add new registers in the data base.</p>
     <div align="center">
        <img src='https://i.postimg.cc/mZFp9PnB/Screenshot-2022-12-18-234708.png' at='Reg section'/>
     </div>
