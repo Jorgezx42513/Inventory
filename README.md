@@ -17,7 +17,7 @@
   </li>
 </ol>
 <h3>how are  use this app?</h3>
-<p>Well this are not very difficult, the app cost of 5 sections:</p>
+<p>Well this are not very difficult, the app cost of 4 sections:</p>
 <ul>
   <li>
     <h5>Inventory reg section</h5>
@@ -28,9 +28,16 @@
   </li>
   <li>
     <h5>Bill red section</h5>
-    <p>In this section you can see the products admitted in the entry, and see the id, name,barcode,amount the same product entry and value is this products.</p>
+    <p>In this section you can see the products admitted in the entry, and see the id, name,barcode,amount the same product entry and value is this products.adicionaly in           the top part have de button to generate de day reg of one bill and the scroolvar,where you can select the database (day_reg to the all day bills added and gen_reg           to the register of general days in one )</p>
     <div align="center">
        <img src='https://i.postimg.cc/0NVTN3Hj/Screenshot-2022-12-19-092040.png' at='bill reg section'/>
+    </div>
+  </li>
+  <li>
+    <h5>Entry point/h5>
+    <p></p>
+    <div align="center">
+       <img src='https://i.postimg.cc/g0pzhfDK/Screenshot-2022-12-19-091240.png' at='bill reg section'/>
     </div>
   </li>
 </ul>
