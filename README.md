@@ -13,7 +13,14 @@
     <p>Go to the direction where you download the .zip file and press right click and extrait de file.</p>
   </li>
   <li>
-    <p>muy bien, esto es todo abre la carpeta y ejecuta el archivo Inventory.exe para iniciar la app. 😀 </p>
+    <p>ok, that's all open the folder and run the file Inventory.exe to start the app. 😀 </p>
   </li>
 </ol>
 <h3>how are  use this app?</h3>
+<p>Well this are not very difficult, the app cost of 5 sections:</p>
+<ul>
+  <li>
+    <h5>Inventory reg section</h5>
+    <p>In this section you can see the register of the inventory</p>
+  </li>
+</ul>
