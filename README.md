@@ -48,3 +48,15 @@
     </div>
   </li>
 </ul>
+<h5>keyboard shortcuts</h5>
+<ul>
+  <li>
+  ENTER=Close the current bill and sent total value to the day_reg
+  </li>
+  <li>
+   less(-)=Delete the last product reg in the bill.   
+  </li>
+  <li>
+  plus(+)= it Focus the barcode section to add new reg product
+  </li>
+</ul>
